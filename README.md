@@ -2,7 +2,7 @@
 
 🚀 **DevOps & Cloud Engineer | Azure & AWS Expert | Kubernetes & Terraform Specialist**
 
-I'm a seasoned IT professional with **12+ years of experience** in infrastructure, cloud computing, and automation. I specialize in building scalable, secure, and cost-optimized solutions using **Microsoft Azure**, **AWS**, **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
+I'm a seasoned IT professional with **14+ years of experience** in infrastructure, cloud computing, and automation. I specialize in building scalable, secure, and cost-optimized solutions using **Microsoft Azure**, **AWS**, **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
 
 My mission is to drive efficiency through automation, enable high availability, and modernize infrastructure with DevOps best practices.
 
