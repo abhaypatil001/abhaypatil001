@@ -31,8 +31,6 @@ My mission is to drive efficiency through automation, enable high availability, 
 📍 Pune, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhay-patil-devops)  
 📧 abhaypatil001@gmail.com  
-
-### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhay-patil-devops)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaypatil001@gmail.com)
 ---
